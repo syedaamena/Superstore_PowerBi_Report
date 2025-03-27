@@ -6,6 +6,13 @@ This repository contains a Power BI report created using the popular Sample Supe
 
 The report provides a clean and interactive layout, making it easy to interpret data from multiple business angles. It is suitable for stakeholders who need to make quick, informed decisions based on data visualization.
 
+## 📌 Key Features  
+- **Sales, Profit & Quantity Summary** – Quick insights into business performance.  
+- **City-wise Analysis** – Filter and explore sales trends in different locations.  
+- **Sub-Category Breakdown** – Identify top-performing product segments.  
+- **Yearly Trends** – Understand sales and profit growth over time.  
+- **Discount Impact** – Analyze how discounts affect overall profitability.  
+
 ## Report Features
 
 Visuals Used:
@@ -39,12 +46,13 @@ Through this report, I learned:
 
 ## Report Preview
 
-https://github.com/usha1459/Superstore_PowerBi_Report/blob/main/Superset_visuals.jpg
+[https://github.com/syedaamena/Superstore_PowerBi_Report/blob/main/report.png]
 
-## Feedback & Collaboration
+## 📬 Let's Connect  
+If you have any feedback or suggestions, feel free to reach out!  
 
-If you're learning Power BI or working on similar projects, feel free to connect!  
-Open to feedback, suggestions, and collaboration opportunities.
+🔗 **LinkedIn**: [https://www.linkedin.com/in/syeda-amena-ali-44415220a/]  
+🔗 **GitHub**: [https://github.com/syedaamena]  
 
 ## License
 
